@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a react component that looks exactly the same as the provided image, hardcode the data so it can be visible","md5":"a3aac988ad805e107a9c500addff60b8"}]}
